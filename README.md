@@ -20,7 +20,7 @@ Inicialmente realizamos entrevistas semi-estruturadas com  4 hospitais da grande
 Nossas maiores premissas foram verificar se a validação de regras e sugestão de alocação seriam importantes para os operadores e como trabalhar com dados sensíveis de pacientes e médicos. 
 Ao final conseguimos validar nossas premissas, 100\%  dos entrevistados consideram que seria útil um sistema que validasse as regras de alocação e fizesse sugestões de alocação. Assim como, 75\% deles citaram a importância de omitir dados sensíveis dos pacientes e médicos. Desta forma, a Whispers optou por não trazer para o banco de dados próprio os dados sensíveis que identifiquem os pacientes e médicos no sistema.
 
-Esse código apresenta uma funcionalidade em construção que tem a finalidade de concentrar em apenas um local todos os dados necessários para a alocação de leitos em apenas um lugar. 
+Esse código apresenta uma funcionalidade em construção que tem a finalidade de concentrar todos os dados necessários para a alocação de leitos em apenas um lugar. 
 
 
 ## Recommended IDE Setup
